@@ -45,4 +45,3 @@ Great! Here are some common Streamlit tags and components you can use:
    - `st.bar_chart()`: Displays a bar chart.
    - `st.map()`: Displays data on a map.
 
-If you need more details on any specific tags or how to use them, let me know!
